@@ -27,25 +27,25 @@ div{
  .one{
     border: 4px solid #51C3CD;
     color: #51C3CD;
-    left: 120px;
+    left: 11%;
  }
 
  .two{
     border: 4px solid #3A6EC1;
     color:#3A6EC1;
-    left: 400px;
+    left: 31%;
  }
 
  .three{
     border: 4px solid #F34D33;
     color: #F34D33;
-    left: 670px;
+    left: 50%;
  }
 
  .four{
     border: 4px solid #919191;
     color: #919191;
-    left: 930px;
+    left: 70%;
  }
 
 img{
