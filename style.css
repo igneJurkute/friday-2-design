@@ -1,4 +1,4 @@
-main{
+.main-section{
     display: flex;
     align-items: center;
     margin-top: 120px;
@@ -74,4 +74,11 @@ img{
 
 .lorem{
     font-size: 14px;
+}
+
+@media (max-width: 1100px){
+    .main-section{
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
